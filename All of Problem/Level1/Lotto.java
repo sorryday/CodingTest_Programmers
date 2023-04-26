@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Solution {
+class Lotto {
     public int[] solution(int[] lottos, int[] win_nums) {        
         HashMap<String,Integer> map = new HashMap<String,Integer>()
         {
